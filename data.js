@@ -1,1 +1,1 @@
-{"users":[{"username":"mahdi","score":100000},{"username":"mahdi","score":13134},{"username":"mahdi","score":10000},{"username":"mahdi","score":9000},{"username":"mahdi","score":7000},{"username":"mahdi","score":5000},{"username":"mahdi","score":3535},{"username":"mahdi","score":3457}]}
+{"users":[{"username":"mahdi","score":100000},{"username":"mahdi","score":13134},{"username":"mahdi","score":10000},{"username":"mahdi","score":9000},{"username":"mahdi","score":7000},{"username":"mahdi","score":6000},{"username":"mahdi","score":5000},{"username":"mahdi","score":3535}]}
