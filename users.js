@@ -4,7 +4,11 @@
     "password": "123"
   },
   {
-    "username": "مهدی",
+    "username": "ÙÙØ¯Û",
     "password": "123"
+  },
+  {
+    "username": "کس",
+    "password": "1234"
   }
 ]
