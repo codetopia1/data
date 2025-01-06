@@ -1,6 +1,6 @@
 const scores = [
   {
     "username": "mahdi",
-    "stars": 4
+    "stars": 10
   }
 ];
