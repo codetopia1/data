@@ -1,4 +1,4 @@
-const bannedWords = [
+[
     "admin",
     "root",
     "superuser",
@@ -6,6 +6,7 @@ const bannedWords = [
     "123456",
     "qwerty",
     "abc123",
+    "بایگانی",
     "مدیر",
     "سیستم"
-];
+]
