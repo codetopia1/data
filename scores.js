@@ -42,5 +42,9 @@ const scores = [
   {
     "username": "mahdi9",
     "stars": 1200
+  },
+  {
+    "username": "mahdi20",
+    "stars": "کاربری یافت نشد"
   }
 ];
