@@ -70,5 +70,9 @@ const scores = [
   {
     "username": "مهدی ملکان",
     "stars": 310
+  },
+  {
+    "username": "طیبایبا",
+    "stars": 310
   }
 ];
