@@ -65,7 +65,7 @@ const scores = [
   },
   {
     "username": "",
-    "stars": "0"
+    "stars": "کاربری یافت نشد"
   },
   {
     "username": "مهدی ملکان",
