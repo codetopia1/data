@@ -65,7 +65,7 @@ const scores = [
   },
   {
     "username": "",
-    "stars": 3
+    "stars": 450
   },
   {
     "username": "مهدی ملکان",
