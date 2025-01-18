@@ -78,5 +78,9 @@ const scores = [
   {
     "username": "Hgff",
     "stars": 3
+  },
+  {
+    "username": "",
+    "stars": 3
   }
 ];
