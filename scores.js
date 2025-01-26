@@ -1,7 +1,7 @@
 const scores = [
   {
     "username": "user1",
-    "stars": "0"
+    "stars": 1
   },
   {
     "username": "user2",
