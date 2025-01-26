@@ -30,5 +30,9 @@ const scores = [
   {
     "username": "user8",
     "stars": 1
+  },
+  {
+    "username": "mahdi",
+    "stars": "کاربری یافت نشد"
   }
 ];
