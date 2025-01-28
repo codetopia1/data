@@ -38,5 +38,9 @@ const scores = [
   {
     "username": "،rip",
     "stars": "0"
+  },
+  {
+    "username": "Elnaz",
+    "stars": 30
   }
 ];
