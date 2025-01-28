@@ -34,5 +34,9 @@ const scores = [
   {
     "username": "mahdi1",
     "stars": 3
+  },
+  {
+    "username": "،rip",
+    "stars": "0"
   }
 ];
