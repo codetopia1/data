@@ -46,5 +46,9 @@ const scores = [
   {
     "username": "سارینا ",
     "stars": 7
+  },
+  {
+    "username": "هادی پوراکبر",
+    "stars": "کاربری یافت نشد"
   }
 ];
