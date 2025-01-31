@@ -28,5 +28,10 @@ const users = [
     "username": "سارینا ",
     "password": 1299,
     "time": "2025-01-30T20:05:59.625Z"
+  },
+  {
+    "username": "هادوشکا",
+    "password": 92,
+    "time": "2025-01-31T10:29:26.085Z"
   }
 ];
