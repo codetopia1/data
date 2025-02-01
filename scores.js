@@ -50,5 +50,9 @@ const scores = [
   {
     "username": "کیمیا شاه نظری ",
     "stars": "0"
+  },
+  {
+    "username": "2122678879",
+    "stars": 15
   }
 ];
