@@ -53,7 +53,7 @@ const scores = [
   },
   {
     "username": "2122678879",
-    "stars": "کاربری یافت نشد"
+    "stars": 45
   },
   {
     "username": "سمانه میلان ",
