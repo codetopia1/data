@@ -48,10 +48,6 @@ const scores = [
     "stars": 7
   },
   {
-    "username": "هادی پوراکبر",
-    "stars": "کاربری یافت نشد"
-  },
-  {
     "username": "کیمیا شاه نظری ",
     "stars": "0"
   }
