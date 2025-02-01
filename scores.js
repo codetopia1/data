@@ -53,6 +53,6 @@ const scores = [
   },
   {
     "username": "2122678879",
-    "stars": 15
+    "stars": "کاربری یافت نشد"
   }
 ];
