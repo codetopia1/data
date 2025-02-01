@@ -54,5 +54,9 @@ const scores = [
   {
     "username": "2122678879",
     "stars": "کاربری یافت نشد"
+  },
+  {
+    "username": "سمانه میلان ",
+    "stars": "0"
   }
 ];
