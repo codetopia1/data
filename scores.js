@@ -90,5 +90,9 @@ const scores = [
   {
     "username": "Sobhangalavi94",
     "stars": 99
+  },
+  {
+    "username": "A",
+    "stars": "0"
   }
 ];
