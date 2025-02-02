@@ -86,5 +86,9 @@ const scores = [
   {
     "username": "سبحان گلوی ",
     "stars": "0"
+  },
+  {
+    "username": "Sobhangalavi94",
+    "stars": 32
   }
 ];
