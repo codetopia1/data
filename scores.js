@@ -82,5 +82,9 @@ const scores = [
   {
     "username": "مهدی ملکان",
     "stars": "0"
+  },
+  {
+    "username": "سبحان گلوی ",
+    "stars": "0"
   }
 ];
