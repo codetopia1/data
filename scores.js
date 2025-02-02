@@ -74,5 +74,9 @@ const scores = [
   {
     "username": "امیر حسین یوسفی ",
     "stars": 105
+  },
+  {
+    "username": "امیرارسلان سارانی",
+    "stars": 165
   }
 ];
