@@ -70,5 +70,9 @@ const scores = [
   {
     "username": "لیلا شاهسونداصل ",
     "stars": 26
+  },
+  {
+    "username": "امیر حسین یوسفی ",
+    "stars": "0"
   }
 ];
