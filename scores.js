@@ -58,5 +58,9 @@ const scores = [
   {
     "username": "سمانه میلان ",
     "stars": "0"
+  },
+  {
+    "username": "محمدطاها ",
+    "stars": 19
   }
 ];
