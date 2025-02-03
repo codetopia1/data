@@ -89,7 +89,7 @@ const scores = [
   },
   {
     "username": "Sobhangalavi94",
-    "stars": 99
+    "stars": 137
   },
   {
     "username": "A",
