@@ -77,7 +77,7 @@ const scores = [
   },
   {
     "username": "امیرارسلان سارانی",
-    "stars": 2302
+    "stars": 3001
   },
   {
     "username": "مهدی ملکان",
