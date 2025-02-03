@@ -126,5 +126,9 @@ const scores = [
   {
     "username": "یاسین نجفی ",
     "stars": "0"
+  },
+  {
+    "username": "یاسین نجفی",
+    "stars": "0"
   }
 ];
