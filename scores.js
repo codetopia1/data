@@ -73,7 +73,7 @@ const scores = [
   },
   {
     "username": "امیر حسین یوسفی ",
-    "stars": 723
+    "stars": 851
   },
   {
     "username": "امیرارسلان سارانی",
