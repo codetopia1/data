@@ -94,5 +94,9 @@ const scores = [
   {
     "username": "A",
     "stars": "0"
+  },
+  {
+    "username": "یاسمن سمیع پور ",
+    "stars": "0"
   }
 ];
