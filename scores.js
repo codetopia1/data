@@ -122,5 +122,9 @@ const scores = [
   {
     "username": "حسین سرگزی ",
     "stars": "0"
+  },
+  {
+    "username": "یاسین نجفی ",
+    "stars": "0"
   }
 ];
