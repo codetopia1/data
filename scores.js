@@ -170,5 +170,9 @@ const scores = [
   {
     "username": "علی اکبر سارانی ",
     "stars": "0"
+  },
+  {
+    "username": "ابرهیم ریکی ",
+    "stars": "0"
   }
 ];
