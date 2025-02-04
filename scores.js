@@ -174,5 +174,9 @@ const scores = [
   {
     "username": "ابرهیم ریکی ",
     "stars": "0"
+  },
+  {
+    "username": "محمد جاوید قاسمی ",
+    "stars": "0"
   }
 ];
