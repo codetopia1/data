@@ -137,7 +137,7 @@ const scores = [
   },
   {
     "username": "عرفان غریب",
-    "stars": "0"
+    "stars": 191
   },
   {
     "username": "ابوالفضل کلدوی ",
