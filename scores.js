@@ -169,7 +169,7 @@ const scores = [
   },
   {
     "username": "علی اکبر سارانی ",
-    "stars": 707
+    "stars": 765
   },
   {
     "username": "ابرهیم ریکی ",
