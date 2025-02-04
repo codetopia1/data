@@ -149,7 +149,7 @@ const scores = [
   },
   {
     "username": "زهره مقری",
-    "stars": "0"
+    "stars": 133
   },
   {
     "username": "صالح  سرگزی ",
