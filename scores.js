@@ -177,7 +177,7 @@ const scores = [
   },
   {
     "username": "محمد جاوید قاسمی ",
-    "stars": 303
+    "stars": 333
   },
   {
     "username": "یوسف کیخا ",
