@@ -177,6 +177,6 @@ const scores = [
   },
   {
     "username": "محمد جاوید قاسمی ",
-    "stars": "0"
+    "stars": 65
   }
 ];
