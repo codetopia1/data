@@ -145,7 +145,7 @@ const scores = [
   },
   {
     "username": "کوهکن",
-    "stars": 644
+    "stars": 744
   },
   {
     "username": "زهره مقری",
