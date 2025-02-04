@@ -109,7 +109,7 @@ const scores = [
   },
   {
     "username": "محمدمهدی",
-    "stars": 116
+    "stars": 184
   },
   {
     "username": "صالح سرگزی ",
