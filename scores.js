@@ -162,5 +162,9 @@ const scores = [
   {
     "username": "اروینارطیس",
     "stars": "0"
+  },
+  {
+    "username": "آروین آرطیس",
+    "stars": "0"
   }
 ];
