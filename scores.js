@@ -205,6 +205,6 @@ const scores = [
   },
   {
     "username": "اجقایب",
-    "stars": "0"
+    "stars": "کاربری یافت نشد"
   }
 ];
