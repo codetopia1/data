@@ -182,5 +182,9 @@ const scores = [
   {
     "username": "یوسف کیخا ",
     "stars": "0"
+  },
+  {
+    "username": "امیرارسلان ",
+    "stars": "0"
   }
 ];
