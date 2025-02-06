@@ -206,5 +206,9 @@ const scores = [
   {
     "username": "اجقایب",
     "stars": "کاربری یافت نشد"
+  },
+  {
+    "username": "زینب خلیلی",
+    "stars": 9
   }
 ];
