@@ -214,5 +214,9 @@ const scores = [
   {
     "username": "محمد یاشار کر",
     "stars": "0"
+  },
+  {
+    "username": "علی اکبر ریکی",
+    "stars": "0"
   }
 ];
