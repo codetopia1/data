@@ -217,7 +217,7 @@ const scores = [
   },
   {
     "username": "علی اکبر ریکی",
-    "stars": 225
+    "stars": 611
   },
   {
     "username": "بشرا ثابت نسب ",
