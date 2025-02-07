@@ -225,6 +225,6 @@ const scores = [
   },
   {
     "username": "نازنین ",
-    "stars": "0"
+    "stars": 18
   }
 ];
