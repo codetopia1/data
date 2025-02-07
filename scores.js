@@ -141,7 +141,7 @@ const scores = [
   },
   {
     "username": "ابوالفضل کلدوی ",
-    "stars": 14112
+    "stars": 15050
   },
   {
     "username": "کوهکن",
