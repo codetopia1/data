@@ -165,7 +165,7 @@ const scores = [
   },
   {
     "username": "آروین آرطیس",
-    "stars": 12502
+    "stars": 12614
   },
   {
     "username": "علی اکبر سارانی ",
