@@ -222,5 +222,9 @@ const scores = [
   {
     "username": "بشرا ثابت نسب ",
     "stars": 9
+  },
+  {
+    "username": "نازنین ",
+    "stars": "0"
   }
 ];
