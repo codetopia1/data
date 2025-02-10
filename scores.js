@@ -105,7 +105,7 @@ const scores = [
   },
   {
     "username": "ابوالفضل کیخا ",
-    "stars": 24004
+    "stars": 25115
   },
   {
     "username": "محمدمهدی",
