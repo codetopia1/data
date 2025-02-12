@@ -226,5 +226,9 @@ const scores = [
   {
     "username": "آیسان",
     "stars": "0"
+  },
+  {
+    "username": "نوژاصامنی",
+    "stars": 4
   }
 ];
