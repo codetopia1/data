@@ -234,5 +234,9 @@ const scores = [
   {
     "username": "فاطمه خیری ",
     "stars": 53
+  },
+  {
+    "username": "آران رزاقیان",
+    "stars": 18
   }
 ];
