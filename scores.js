@@ -233,6 +233,6 @@ const scores = [
   },
   {
     "username": "فاطمه خیری ",
-    "stars": "0"
+    "stars": 53
   }
 ];
