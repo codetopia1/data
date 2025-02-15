@@ -238,5 +238,9 @@ const scores = [
   {
     "username": "آران رزاقیان",
     "stars": 18
+  },
+  {
+    "username": "بازی",
+    "stars": "0"
   }
 ];
