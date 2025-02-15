@@ -153,7 +153,7 @@ const scores = [
   },
   {
     "username": "صالح  سرگزی ",
-    "stars": "0"
+    "stars": 12
   },
   {
     "username": "اروین ارطیس",
