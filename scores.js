@@ -249,6 +249,6 @@ const scores = [
   },
   {
     "username": "زینب آقامحمدی ",
-    "stars": 18
+    "stars": 34
   }
 ];
