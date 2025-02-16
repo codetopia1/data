@@ -250,5 +250,9 @@ const scores = [
   {
     "username": "زینب آقامحمدی ",
     "stars": 34
+  },
+  {
+    "username": "الاهه",
+    "stars": "0"
   }
 ];
