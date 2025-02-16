@@ -246,5 +246,9 @@ const scores = [
   {
     "username": "Zx",
     "stars": 2
+  },
+  {
+    "username": "زینب آقامحمدی ",
+    "stars": 18
   }
 ];
