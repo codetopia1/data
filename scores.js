@@ -249,7 +249,7 @@ const scores = [
   },
   {
     "username": "زینب آقامحمدی ",
-    "stars": 34
+    "stars": 38
   },
   {
     "username": "الاهه",
