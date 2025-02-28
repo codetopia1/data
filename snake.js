@@ -1,2 +1,2 @@
 // snake.js
-const bestScore = 0; // مقدار پیش‌فرض بهترین امتیاز
+const bestScore = 555; // مقدار پیش‌فرض بهترین امتیاز
