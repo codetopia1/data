@@ -262,5 +262,9 @@ const scores = [
   {
     "username": "عسل آزادی",
     "stars": 23
+  },
+  {
+    "username": "سلام",
+    "stars": "0"
   }
 ];
