@@ -270,5 +270,9 @@ const scores = [
   {
     "username": "Salam",
     "stars": "0"
+  },
+  {
+    "username": "یسنا ملکان",
+    "stars": 18
   }
 ];
