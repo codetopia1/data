@@ -33,7 +33,7 @@ const scores = [
   },
   {
     "username": "mahdi1",
-    "stars": 27
+    "stars": 9
   },
   {
     "username": "،rip",
