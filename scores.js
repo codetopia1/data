@@ -294,5 +294,9 @@ const scores = [
   {
     "username": "Roza",
     "stars": 6
+  },
+  {
+    "username": "رزا",
+    "stars": "0"
   }
 ];
