@@ -297,6 +297,6 @@ const scores = [
   },
   {
     "username": "رزا",
-    "stars": "0"
+    "stars": 30
   }
 ];
