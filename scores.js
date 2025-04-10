@@ -302,5 +302,9 @@ const scores = [
   {
     "username": "الکس",
     "stars": 5
+  },
+  {
+    "username": "پارسا علی نژاد ",
+    "stars": "0"
   }
 ];
