@@ -310,5 +310,9 @@ const scores = [
   {
     "username": "نادیا احمدی ",
     "stars": "0"
+  },
+  {
+    "username": "مهیار زلقی",
+    "stars": "0"
   }
 ];
