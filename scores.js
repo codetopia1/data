@@ -314,5 +314,9 @@ const scores = [
   {
     "username": "مهیار زلقی",
     "stars": "0"
+  },
+  {
+    "username": "سوباسا",
+    "stars": "0"
   }
 ];
