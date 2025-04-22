@@ -330,5 +330,9 @@ const scores = [
   {
     "username": "آوا",
     "stars": "0"
+  },
+  {
+    "username": "فاطمه زهرا زارعی ",
+    "stars": 20
   }
 ];
