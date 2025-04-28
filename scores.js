@@ -346,5 +346,9 @@ const scores = [
   {
     "username": "پددزنلک",
     "stars": 43
+  },
+  {
+    "username": "پویان ",
+    "stars": "0"
   }
 ];
