@@ -369,6 +369,6 @@ const scores = [
   },
   {
     "username": "Samina",
-    "stars": "0"
+    "stars": "کاربری یافت نشد"
   }
 ];
