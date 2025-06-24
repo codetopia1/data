@@ -382,5 +382,9 @@ const scores = [
   {
     "username": "نادیا مشایخ",
     "stars": "0"
+  },
+  {
+    "username": "مهدی",
+    "stars": "0"
   }
 ];
