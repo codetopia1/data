@@ -390,5 +390,9 @@ const scores = [
   {
     "username": "محمد جواد ",
     "stars": 27
+  },
+  {
+    "username": "محمدجواد ",
+    "stars": "0"
   }
 ];
