@@ -406,5 +406,9 @@ const scores = [
   {
     "username": "زینب حدیدی ",
     "stars": "0"
+  },
+  {
+    "username": "nikan",
+    "stars": 3
   }
 ];
