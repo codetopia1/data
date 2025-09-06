@@ -422,5 +422,9 @@ const scores = [
   {
     "username": "ممد",
     "stars": 28
+  },
+  {
+    "username": "زهرا رستمی",
+    "stars": "0"
   }
 ];
