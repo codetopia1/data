@@ -446,5 +446,9 @@ const scores = [
   {
     "username": "ا",
     "stars": 11
+  },
+  {
+    "username": "اسرا",
+    "stars": "0"
   }
 ];
