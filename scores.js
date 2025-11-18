@@ -470,5 +470,9 @@ const scores = [
   {
     "username": "امیررضا کمالی ",
     "stars": 30
+  },
+  {
+    "username": "امیرحسین ",
+    "stars": 2
   }
 ];
