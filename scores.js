@@ -474,5 +474,9 @@ const scores = [
   {
     "username": "امیرحسین ",
     "stars": 2
+  },
+  {
+    "username": "بازی ضرب",
+    "stars": "0"
   }
 ];
