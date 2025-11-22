@@ -457,7 +457,7 @@ const scores = [
   },
   {
     "username": "☠️☠️امیرحسین ☠️☠️",
-    "stars": "0"
+    "stars": 38
   },
   {
     "username": "حسین خسروی",
