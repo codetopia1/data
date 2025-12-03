@@ -478,5 +478,9 @@ const scores = [
   {
     "username": "بازی ضرب",
     "stars": "0"
+  },
+  {
+    "username": "HANAEH",
+    "stars": "0"
   }
 ];
