@@ -618,5 +618,10 @@ const users = [
     "username": "بازی ضرب",
     "password": 1393,
     "time": "2025-11-22T17:16:36.042Z"
+  },
+  {
+    "username": "HANAEH",
+    "password": 1234,
+    "time": "2025-12-03T10:18:38.995Z"
   }
 ];
