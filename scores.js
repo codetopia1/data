@@ -482,5 +482,9 @@ const scores = [
   {
     "username": "HANAEH",
     "stars": "0"
+  },
+  {
+    "username": "09130661634",
+    "stars": "0"
   }
 ];
