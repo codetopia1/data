@@ -490,5 +490,9 @@ const scores = [
   {
     "username": "عتيق الله غزنوی ",
     "stars": "0"
+  },
+  {
+    "username": "مهلا",
+    "stars": "0"
   }
 ];
