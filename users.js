@@ -658,5 +658,10 @@ const users = [
     "username": "بنیامین یوسفی ",
     "password": 1393,
     "time": "2025-12-29T11:20:09.048Z"
+  },
+  {
+    "username": "Sar",
+    "password": 5555,
+    "time": "2025-12-30T13:34:17.550Z"
   }
 ];
