@@ -529,6 +529,6 @@ const scores = [
   },
   {
     "username": "صباجوادی ",
-    "stars": "0"
+    "stars": 42
   }
 ];
