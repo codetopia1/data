@@ -546,5 +546,9 @@ const scores = [
   {
     "username": "رها فتحعلی زاده ",
     "stars": "0"
+  },
+  {
+    "username": "مهراد پزشک همدانی",
+    "stars": "0"
   }
 ];
