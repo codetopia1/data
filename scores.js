@@ -550,5 +550,9 @@ const scores = [
   {
     "username": "مهراد پزشک همدانی",
     "stars": "0"
+  },
+  {
+    "username": "vandad",
+    "stars": "0"
   }
 ];
