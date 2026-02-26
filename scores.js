@@ -554,5 +554,9 @@ const scores = [
   {
     "username": "vandad",
     "stars": "0"
+  },
+  {
+    "username": "سیده ریحانه معینی",
+    "stars": "0"
   }
 ];
