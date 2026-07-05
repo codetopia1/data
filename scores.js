@@ -562,5 +562,9 @@ const scores = [
   {
     "username": "Kian",
     "stars": "0"
+  },
+  {
+    "username": "رستا مقامی",
+    "stars": "0"
   }
 ];
