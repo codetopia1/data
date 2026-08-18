@@ -570,5 +570,9 @@ const scores = [
   {
     "username": "Shilan Baleshzar",
     "stars": 58
+  },
+  {
+    "username": "جواد نوروزی ",
+    "stars": "0"
   }
 ];
