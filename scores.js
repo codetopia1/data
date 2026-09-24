@@ -581,6 +581,6 @@ const scores = [
   },
   {
     "username": "دنیامحمدی",
-    "stars": "0"
+    "stars": "کاربری یافت نشد"
   }
 ];
