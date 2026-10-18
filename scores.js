@@ -586,5 +586,9 @@ const scores = [
   {
     "username": "آلیشیا ",
     "stars": "کاربری یافت نشد"
+  },
+  {
+    "username": "علی اصغر",
+    "stars": 3
   }
 ];
